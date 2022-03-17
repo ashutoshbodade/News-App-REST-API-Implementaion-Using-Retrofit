@@ -1,0 +1,9 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/black">
+
+    </item>
+    <item
+        android:drawable="@drawable/news_icon_small"
+        android:gravity="center"/>
+
+</layer-list>
